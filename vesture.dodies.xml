@@ -210,4 +210,34 @@
     <tileSize>256</tileSize>
     <tileScale dpi="0" multi="2.0" replace="19" />
   </provider>
+  <provider id="34222" type="0" visible="true" required="false" background="-1">
+    <name>Генеральный штаб</name>
+    <mode>Генеральный штаб Pilsētas 10K</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-10P/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>24</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34223" type="0" visible="true" required="false" background="-1">
+    <name>Генеральный штаб</name>
+    <mode>Генеральный штаб C-system 10K</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-10C/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>24</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34224" type="0" visible="true" required="false" background="-1">
+    <name>Генеральный штаб</name>
+    <mode>Генеральный штаб O-system 10K</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-10O/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>24</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
 </providers>
