@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<providers>
+  <provider id="34201" type="0" visible="true" required="false" background="-1">
+    <name>Военно-топографическая карта</name>
+    <mode>1866 Военно-топографическая карта (#1)</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-3verst1/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>20</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34202" type="0" visible="true" required="false" background="-1">
+    <name>Военно-топографическая карта</name>
+    <mode>1915 Военно-топографическая карта (#2)</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-3verst2/z{z}/{y}/{x}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>22</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34203" type="0" visible="true" required="false" background="-1">
+    <name>Военно-топографическая карта</name>
+    <mode>1915 Военно-топографическая карта (#2 Vāc.)</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-3verst2-german/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>20</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34204" type="0" visible="true" required="false" background="-1">
+    <name>Военно-топографическая карта</name>
+    <mode>1915 Военно-топографическая карта (2verst O)</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-2verst-o/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>22</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34205" type="0" visible="true" required="false" background="-1">
+    <name>Военно-топографическая карта</name>
+    <mode>1927 Военно-топографическая карта (2verst R)</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-2verst-r/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>22</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34206" type="0" visible="true" required="false" background="-1">
+    <name>1914 Übersichtskarte von Mitteleuropa</name>
+    <mode>1914 Übersichtskarte von Mitteleuropa</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-1914-300k/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>20</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34207" type="0" visible="true" required="false" background="-1">
+    <name>1914-19 Karte des westlichen Russlands</name>
+    <mode>1914-19 Karte des westlichen Russlands</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-kdwr/z{z}/{y}/{x}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>22</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34208" type="0" visible="true" required="false" background="-1">
+    <name>1914-19 West. Osteuropa 25K</name>
+    <mode>1914-19 West. Osteuropa 25K</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-kdwr-25k/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>22</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34209" type="0" visible="true" required="false" background="-1">
+    <name>Latvijas armijas</name>
+    <mode>1920-1940 Latvijas armijas 200K </mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-latarm-200k/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>21</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34210" type="0" visible="true" required="false" background="-1">
+    <name>Latvijas armijas</name>
+    <mode>1920-1940 Latvijas armijas 75K</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-75/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>21</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34211" type="0" visible="true" required="false" background="-1">
+    <name>Latvijas armijas</name>
+    <mode>1920-1940 Latvijas armijas 25K</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-latarm/z{z}/{y}/{x}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>22</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34212" type="0" visible="true" required="false" background="-1">
+    <name>1940 Karte von Luftwaffe </name>
+    <mode>https://home.dodies.lv/tiles/tiles-osteuropa/z{z}/{y}/{x}.png</mode>
+    <url><![CDATA[undefined]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>22</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34213" type="0" visible="true" required="false" background="-1">
+    <name>1944 Deutsche Heereskarte</name>
+    <mode>https://home.dodies.lv/tiles/tiles-heeres-100k/z{z}/{y}/{x}.png</mode>
+    <url><![CDATA[undefined]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>22</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34214" type="0" visible="true" required="false" background="-1">
+    <name>RKKA</name>
+    <mode>1931 РККА 50K</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-rkka/{z}/{y}/{x}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>22</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34215" type="0" visible="true" required="false" background="-1">
+    <name>RKKA</name>
+    <mode>1940 РККА 500K</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-rkka-500k/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>22</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34216" type="0" visible="true" required="false" background="-1">
+    <name>1954 US ARMY</name>
+    <mode>https://home.dodies.lv/tiles/tiles-usarmy54-200k/{z}/{x}/{y}.png</mode>
+    <url><![CDATA[undefined]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>20</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+    <provider id="34217" type="0" visible="true" required="false" background="-1">
+    <name>Генеральный штаб</name>
+    <mode>1947 Генеральный штаб 25K</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-47-25k/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>23</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34218" type="0" visible="true" required="false" background="-1">
+    <name>Генеральный штаб</name>
+    <mode>1963 Генеральный штаб 25K</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-63-25k/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>23</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34219" type="0" visible="true" required="false" background="-1">
+    <name>Генеральный штаб</name>
+    <mode>1986 Генеральный штаб 25K</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-86-25k/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>23</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34220" type="0" visible="true" required="false" background="-1">
+    <name>Генеральный штаб</name>
+    <mode>1986 Генеральный штаб 50K</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-genshtab/z{z}/{y}/{x}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>22</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+  <provider id="34221" type="0" visible="true" required="false" background="-1">
+    <name>1883 Riga in 16 Blattern</name>
+    <mode>1883 Riga in 16 Blattern</mode>
+    <url><![CDATA[https://home.dodies.lv/tiles/tiles-riga-1883/{z}/{x}/{y}.png]]></url>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>16</zoomMin>
+    <zoomMax>28</zoomMax>
+    <tileSize>256</tileSize>
+    <tileScale dpi="0" multi="2.0" replace="19" />
+  </provider>
+</providers>
